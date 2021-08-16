@@ -1,1 +1,1 @@
-This is Brandy's first git project!
+Digging deeper into using Git/GitHub
